@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffee-code-beach 
-- 👀 I’m interested in crypto, apps, web, linux
-- 🌱 I’m currently learning smart-contracts, android, & javascript
+- 👀 I’m interested in mobile apps, web, linux, and embedded systems
+- 🌱 I’m currently learning arduino, freecad, & javascript
 - 💞️ I’m looking to collaborate on web projects, mobile apps, or anything new and exciting!
 - 📫 How to reach me: IslandBreeze569@protonmail.com
 
